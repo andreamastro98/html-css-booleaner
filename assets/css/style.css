@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-size: 21%;
+    background-color: cornflowerblue;
+    height: 100px;
+}
+
+.logo{
+    width: 10%;
+    margin-top: 47px;
+    margin-left: 5px;
+}
+
+.contenitore{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.contenitore2{
+    margin-top: 20px;
+}
+
+.greywriting{
+    color: grey;
+}
+
+.bluewriting{
+    color: dodgerblue;
+}
+
+.smallgreywriting{
+    color: grey;
+    font-size: small;
+}
+
+.smallwriting{
+    font-size: small;
+}
+
+.margin-top-bottom{
+    margin: 13px 0;
+}
+
+.margin-left{
+    margin-left: 22px;
+}
+
+table{
+    margin-top: 20px;
+    border-spacing: 0;
+}
+
+thead{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.th-no-left-margin{
+    text-align: left;
+}
+
+.first-row-color{
+    background-color: cyan;
+}
+
+.second-row-color{
+    background-color: lightcyan;
+}
+
+.left-center-column{
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img-top-bottom{
+    margin: 8px 0;
+}
