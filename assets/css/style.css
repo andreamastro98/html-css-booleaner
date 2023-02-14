@@ -10,6 +10,11 @@ header{
     background-size: 21%;
     background-color: cornflowerblue;
     height: 100px;
+    margin-bottom: 15px;
+}
+
+.contenitore-immagini{
+    margin-top: 20px;
 }
 
 .logo{
@@ -21,10 +26,6 @@ header{
 .contenitore{
     margin-right: 5px;
     margin-left: 5px;
-}
-
-.contenitore2{
-    margin-top: 20px;
 }
 
 .greywriting{
@@ -83,3 +84,4 @@ thead{
 .img-top-bottom{
     margin: 8px 0;
 }
+
